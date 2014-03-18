@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FPGA_correlator_console_001", "FPGA_correlator_console_001\FPGA_correlator_console_001.vcproj", "{3F6D2526-526D-48D4-B3DF-C0A8754F1278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F6D2526-526D-48D4-B3DF-C0A8754F1278}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F6D2526-526D-48D4-B3DF-C0A8754F1278}.Debug|Win32.Build.0 = Debug|Win32
+		{3F6D2526-526D-48D4-B3DF-C0A8754F1278}.Release|Win32.ActiveCfg = Release|Win32
+		{3F6D2526-526D-48D4-B3DF-C0A8754F1278}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
